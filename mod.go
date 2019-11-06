@@ -1,7 +1,7 @@
 package modtest
 
 import (
-	"mod-test/submod"
+	"lo.l/mod-test/submod"
 )
 
 func Do(submod.Thing) {}
